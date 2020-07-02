@@ -1,0 +1,72 @@
+FACTORS INFLUENCING QUALITY OF MOBILE APPS: ROLE OF MOBILE APP DEVELOPMENT LIFE CYCLE
+
+Summary
+
+Abstract
+
+This paper shows How and Why? The mobile app development field has been gaining attention from the past few years due to a large number of mobile app usage. For understanding and provide more detail of apps to developers paper(author) discuss important and most-used apps include by different survey and stats. The authors also included the important factors that cause apps to fail which include negligence by the developers, technical issues, inadequate marketing efforts, and high prospects of the users/consumers. The paper provides suggestions to give up the failure of apps.
+
+1. INTRODUCTION
+
+A mobile app, short for mobile application or just app, is an application software designed to run on phones, tablet computers, etc.
+
+With the passage of time, In the technology and user prospects, the developer divides into categories such as mobile games, GPS, banking, ticket purchases, social media, video chats, factory automation, location-based services, fitness apps, and recently mobile medical apps. some apps need internet connection some operate as offline depends on the user requirements.you can imagine total projected Mobile app downloads in 2013 is 102 billion and the Total projected mobile app revenue in 2013 $26 billion. In the past few years, there has strong competition between iPhone, Android, and web apps which are better. A lot of famous web sites and app analytics give their opinions and find outfalls in apps according to advantages and disadvantages, but that is not enough.
+
+
+2. MOBILE APP MARKET STATISTICS
+
+These are some stats according to market research conducted by IDC predicts that the market for mobile applications will continue to accelerate as the number of downloaded apps is expected to increase from 10.9 billion worldwide in 2010 to 76.9 billion in 2014.r. Apple ruled this market with 2.5 billion downloads from its store in 2009. After, other companies like Android, Google, and Nokia have entered in apps field with the emerging smartphone market. so is there has been a huge addition in the number of mobile app developers. they author also mentions some other stats as well. Research by Mobilewalla revealed that users eventually expunge 90 percent of all downloaded apps.
+
+
+3. BAD APPS
+
+This is an important section for develops of apps, they find out where they did a mistake in-app development by positive and negative reviews. “44% verbally express they would expunge a mobile app immediately if the app did not perform as expected”. the user gives a negative review if the app, not they're expected, and uninstall the app. The author explains the bad and good app by some graphical views. some Bad reviews related to apps are download issues to big app size, security issues, poor navigation system, and does not meet the user requirements, and so on. these issues can be solved by providing app update regularly and add new features to user recommendations.
+
+
+4. REASONS FOR BAD / FAILING APPS AND SUGGESTIONS TO
+
+IMPROVE
+
+The bad apps are those which are burden on the user. they installed only once and then not use it.
+
+4.1 App failure – Role of the developer
+
+Apps mainly like banking should be secure and there should not be any kind of adds, As this ads approach makes the user in confusion and risk. So these apps should be secure and safe to use. And all depends on the developers. Some of the suggestion for developers to make best apps are that they should get feedback and should improve according to that survey. And it should be very user friendly to enter and look up into all the details.
+
+4.2 App failure-Role of User
+
+According to one of American survey it is sad that apps are fails due to slow responsiveness, Application system freeze, More Battery Consuming, App System Crashes. For the suggestions it is said to user that sometimes that delete without giving feedback or etc so the user should give their feedback and experience of its use and should discuss the issues.
+
+4.3 App Failure-Role of Technical details
+
+Apps were failed due to lack of technical communication. As for heavy games or etc we put our app but not show its capacities of usage that slows down the normal phone, so that is also a factor of negative reviews and failure so in order to avoid it all the technical details should be provided with he app while installation of app so that the user can look and install according to that.
+
+4.4 App Failure-Role of Marketing
+
+Apps are mostly failed due to lack of App marketing and also due to when we don't engage user after installing the app that are main cause of app failure. Apps are failed due to tight budget issue so they for large apps they should contact with some agencies to promote it that required budget. Sometimes apps failed due to most of the adds on it and lack of trust , so we should be more focused with the add provider and should make it transparent. People should encouraged for the reviews and people install app by looking that and the app logo icon should be attractive as that is the first impression for the app. For advertisement audience should be targeted and use of social media to expand it wither by emails or other social account and say to your friends to promote on their accounts as well, and advertisement is also done by clients by giving them benefits for referring and in app should made basic features free of cost and advance features for fee charges so like this the app work properly and advertised.
+
+5. ROLE OF APP DEVELOPMENT LIFE CYCLE
+
+Most of the studies don't talk about how we identify good quality apps or low-quality apps nor the factor that causes the low-quality apps nor the solution to surmount those shortcomings. If we talk about SDLC point of view they said, the first reason is that developer doesn't follow any life cycle they just started developing apps without going into requirement specification and design stages and then with lack of training in developing tools. And after that, they ignore testing and move to the deployment stage and after that, there is no maintenance.
+
+Related Technologies:
+
+The very commonly used modeling language is UML(Unified Modeling Language) and it is considered as standardized general-purpose modeling language. UML contains a large set of graphical representation techniques. It is used for data modeling, business modeling, object modeling, and component modeling. For mobile development, Mobile Unified Modeling Language is being used. Because mobile agents carry an executable code and data within themselves.
+
+Case Study
+
+In this case study, we take the GSN app, A GSN application can be defined as the one that holds the basic characteristics of any social networking app. This paper will talk about the development of the GSN app, using the traditional object-oriented software development life cycle approach. The approach includes the following phases: requirements gathering, design, development, testing, and maintenance.
+
+The requirements phase is the foremost phase of the mobile application development life cycle, which deals with functional and non-functional functional aspects of the application. hence the question here is how can one distinguish the requirements of the mobile apps from the traditional software application. In order to resolve this issue, we use M-UML in order to represent the features of mobile applications.
+
+Mobile App design phase, is a critical phase and is carried out in two designs: Static design and Dynamic design. First, we briefly talk about static design, Static design describes the static nature of the system in the form of class diagrams. if any class uses/initiate any of the mobile objects then it becomes a mobile class. A mobile class is represented with the letter "M" at the top corner of the class representation. A mobile class may interact with remote class/remote objects which are denoted with the letter "R" at the corner of the class presentation, to differentiate between a mobile class and a remote class. The dynamic nature of the mobile app can be described by using either sequence diagrams or collaboration diagrams. Time-based interactions are represented using sequence diagrams and an association between objects is represented using collaboration diagrams.
+
+Now come to the development phase, the development of the mobile app is similar to a traditional software application development with some challenges and complexities involved due to software and hardware constraints. Among the different platforms that exist: Android, IOS, and windows are the most popular and are widely used. Each platform has its own cons and pros regarding technology and marketing prospects. GSN is developed with the help of the Android SDK, which is an open-source and rich set of supporting tools and plugins.
+
+Mobile app testing plays a vital role in determining the quality and performance of the app. There are plenty of tools available in the market for testing mobile apps. Analysis reports from different market statistics suggest t the following four important testing aspects to avoid low-quality apps. Functional testing (black box testing), Code testing (white box t testing), security testing and, performance testing.
+
+After the development and testing of the mobile app, vendors release the mobile app into the market for mobile users. There is a high probability that users might face a few issues that were not identified during the mobile app testing phase. The maintenance phase deals with fixing the issues that were fronted by mobile users and also involves developing/releasing new features, which can be implemented using the mobile application development life cycle.
+Summary and Future work
+
+With the App Store is such a phenomenal success, mobile apps have become an essential part of the user’s daily life. The mobile app is not a tiny/simple piece of software anymore. Thus, the goal of the developer is to keep an open mind and embrace innovative procedures that can avail amend the life cycle of an app while enhancing user satisfaction.
+
